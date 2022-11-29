@@ -59,3 +59,5 @@ exit
 * 下载NppMarkdownPanel.css,已优化的深色模式css,放在NppMarkdownPanel插件文件夹内
 
 插件->NppMarkdownPanel->Edit Setting->CSS file(选择NppMarkdownPanel.css)(大小看屏幕)
+
+* 图片显示只能是后缀与实际格式一致的
